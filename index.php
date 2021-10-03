@@ -11,10 +11,6 @@
 
     <link href="style.css" rel="stylesheet">
     <link rel="icon" href="images/reload.png" type="image/png">
-
-    <style>
-
-    </style>
 </head>
 
 <body>
